@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/drawable/background_color.xml" value="0.16" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/drawable/btn_background.xml" value="0.1825" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_add_ents.xml" value="0.33" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_add_user_key.xml" value="0.19427083333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_fakecut.xml" value="0.17708333333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_local_data.xml" value="0.19427083333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_login.xml" value="0.19427083333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_main.xml" value="0.19427083333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_register.xml" value="0.19427083333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_settings.xml" value="0.19427083333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/activity_splash_screen.xml" value="0.19322916666666667" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/caustom_dailog.xml" value="0.19427083333333334" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/BhattaAdmin/app/src/main/res/layout/main_items.xml" value="0.19427083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
